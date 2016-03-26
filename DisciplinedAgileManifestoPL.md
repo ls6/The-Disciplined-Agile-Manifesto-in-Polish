@@ -1,3 +1,5 @@
+<!-- źródło: http://www.disciplinedagiledelivery.com/disciplinedagilemanifesto/ -->
+
 # Manifest zdyscyplinowanego programowania zwinnego
 
 *Manifest zdyscyplinowanego programowania zwinnego* jest rozszerzeniem *[Manifestu programowania zwinnego](http://agilemanifesto.org/iso/pl/)* napisanego w 2001 roku i zawiera zasady stojące za podejściem *Disciplined Agile*.
