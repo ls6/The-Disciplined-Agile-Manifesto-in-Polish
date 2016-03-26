@@ -1,0 +1,3 @@
+Manifest zdyscyplinowanego programowania zwinnego
+
+
