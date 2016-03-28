@@ -1,5 +1,4 @@
 <!-- źródło: http://www.disciplinedagiledelivery.com/disciplinedagilemanifesto/ -->
-
 # Manifest zdyscyplinowanego programowania zwinnego
 
 *Manifest zdyscyplinowanego programowania zwinnego* jest rozszerzeniem *[Manifestu programowania zwinnego](http://agilemanifesto.org/iso/pl/)* napisanego w 2001 roku i zawiera zasady stojące za podejściem *Disciplined Agile*.
@@ -41,3 +40,9 @@ ale większą wartość mają dla nas te, które wypisano po lewej.
 11. Najlepsze wymagania, rozwiązania architektoniczne i projektowe wychodzą od samoorganizujących się zespołów.
 
 12. Zespół w regularnych odstępach czasu analizuje możliwości poprawy swojej wydajności, a następnie dostraja i dostosowuje swoje działania do wyciągniętych wniosków.
+
+13. Wykorzystujemy i rozwijamy zasoby wewnątrz ekosystemu naszej organizacji współpracując z osobami za nie odpowiedzialnymi.
+
+14. Wizualizujemy naszą pracę i jej postępy aby dostarczać wyniki w sposób ciągły i minimalizujemy pracę w toku.
+
+15. Ekosystem organizacji musi ewoluować tak aby wspomagać pracę zwinnych zespołów będąć jednocześnie na tyle elastycznym żeby wspierać również zespoły pracujące kaskadowo i hybrydowo.
