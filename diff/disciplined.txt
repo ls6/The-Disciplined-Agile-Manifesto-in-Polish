@@ -1,0 +1,43 @@
+=== Values:
+
+Individuals and interactions over processes and tools
+
+Consumable solutions over comprehensive documentation
+
+Stakeholder collaboration over contract negotiation
+
+Responding to change over following a plan
+
+That is, while there is value in the items on the right, disciplined agilists value the items on the left more.
+
+=== Principles:
+
+Our highest priority is to satisfy the stakeholder through early and continuous delivery of valuable solutions.
+
+Welcome changing requirements, even late in the solution delivery lifecycle. Agile processes harness change for the customer’s competitive advantage.
+
+Deliver consumable solutions frequently, from a couple of weeks to a couple of months, with a preference to the shorter time scale.
+
+Stakeholders and developers must work together daily throughout the project.
+
+Build teams around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+
+The most efficient and effective method of conveying information to and within a delivery team is face-to-face conversation.
+
+Consumable solutions are the primary measure of progress.
+
+Agile processes promote sustainable delivery. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+
+Continuous attention to technical excellence and good design enhances agility.
+
+Simplicity – the art of maximizing the amount of work not done – is essential.
+
+The best architectures, requirements, and designs emerge from self-organizing teams.
+
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+Leverage and evolve the assets within your organizational ecosystem, and collaborate with the people responsible for those assets to do so.
+
+Visualize workflow to help achieve a smooth flow of delivery while keeping work in progress to a minimum.
+
+The organizational ecosystem must evolve to reflect and enhance the efforts of agile teams, yet be sufficiently flexible to still support non-agile or hybrid teams.
